@@ -5,7 +5,7 @@
 ### Projects
 
 [Language Learning Website](https://jon-languages.herokuapp.com/)
-Language learning website with both grammar reference articles and a trivia game to help users learn words in context in foreign languages. Backend was developed in Django and frontend in HTML/CSS/Bootstrap and Javascript. Other features incrude user accounts and profiles, CRUD operations, and level progression for trivia lessons.
+Language learning website with both grammar reference articles and a trivia game to help users learn words in context in foreign languages. Backend was developed in Django and frontend in HTML/CSS/Bootstrap and Javascript. Other features incrude authentication and authorization, CRUD operations, and level progression for trivia lessons. Deployed to Heroku.
 
 ---
 [New Britain Cares Website](https://www.nbcaresct.com/)
